@@ -1,0 +1,16 @@
+G:\Training\MyFirstProgram\bin\Debug\net5.0\MyFirstProgram.exe
+G:\Training\MyFirstProgram\bin\Debug\net5.0\MyFirstProgram.deps.json
+G:\Training\MyFirstProgram\bin\Debug\net5.0\MyFirstProgram.runtimeconfig.json
+G:\Training\MyFirstProgram\bin\Debug\net5.0\MyFirstProgram.runtimeconfig.dev.json
+G:\Training\MyFirstProgram\bin\Debug\net5.0\MyFirstProgram.dll
+G:\Training\MyFirstProgram\bin\Debug\net5.0\ref\MyFirstProgram.dll
+G:\Training\MyFirstProgram\bin\Debug\net5.0\MyFirstProgram.pdb
+G:\Training\MyFirstProgram\obj\Debug\net5.0\MyFirstProgram.csproj.AssemblyReference.cache
+G:\Training\MyFirstProgram\obj\Debug\net5.0\MyFirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+G:\Training\MyFirstProgram\obj\Debug\net5.0\MyFirstProgram.AssemblyInfoInputs.cache
+G:\Training\MyFirstProgram\obj\Debug\net5.0\MyFirstProgram.AssemblyInfo.cs
+G:\Training\MyFirstProgram\obj\Debug\net5.0\MyFirstProgram.csproj.CoreCompileInputs.cache
+G:\Training\MyFirstProgram\obj\Debug\net5.0\MyFirstProgram.dll
+G:\Training\MyFirstProgram\obj\Debug\net5.0\ref\MyFirstProgram.dll
+G:\Training\MyFirstProgram\obj\Debug\net5.0\MyFirstProgram.pdb
+G:\Training\MyFirstProgram\obj\Debug\net5.0\MyFirstProgram.genruntimeconfig.cache
