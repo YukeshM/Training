@@ -1,0 +1,15 @@
+G:\visual studio community\Day2_6\bin\Debug\net5.0\Day2_6.exe
+G:\visual studio community\Day2_6\bin\Debug\net5.0\Day2_6.deps.json
+G:\visual studio community\Day2_6\bin\Debug\net5.0\Day2_6.runtimeconfig.json
+G:\visual studio community\Day2_6\bin\Debug\net5.0\Day2_6.runtimeconfig.dev.json
+G:\visual studio community\Day2_6\bin\Debug\net5.0\Day2_6.dll
+G:\visual studio community\Day2_6\bin\Debug\net5.0\ref\Day2_6.dll
+G:\visual studio community\Day2_6\bin\Debug\net5.0\Day2_6.pdb
+G:\visual studio community\Day2_6\obj\Debug\net5.0\Day2_6.GeneratedMSBuildEditorConfig.editorconfig
+G:\visual studio community\Day2_6\obj\Debug\net5.0\Day2_6.AssemblyInfoInputs.cache
+G:\visual studio community\Day2_6\obj\Debug\net5.0\Day2_6.AssemblyInfo.cs
+G:\visual studio community\Day2_6\obj\Debug\net5.0\Day2_6.csproj.CoreCompileInputs.cache
+G:\visual studio community\Day2_6\obj\Debug\net5.0\Day2_6.dll
+G:\visual studio community\Day2_6\obj\Debug\net5.0\ref\Day2_6.dll
+G:\visual studio community\Day2_6\obj\Debug\net5.0\Day2_6.pdb
+G:\visual studio community\Day2_6\obj\Debug\net5.0\Day2_6.genruntimeconfig.cache
