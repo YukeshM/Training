@@ -1,0 +1,16 @@
+G:\visual studio community\Training\day3\Day3_4\obj\Debug\net5.0\Day3_4.csproj.AssemblyReference.cache
+G:\visual studio community\Training\day3\Day3_4\obj\Debug\net5.0\Day3_4.GeneratedMSBuildEditorConfig.editorconfig
+G:\visual studio community\Training\day3\Day3_4\obj\Debug\net5.0\Day3_4.AssemblyInfoInputs.cache
+G:\visual studio community\Training\day3\Day3_4\obj\Debug\net5.0\Day3_4.AssemblyInfo.cs
+G:\visual studio community\Training\day3\Day3_4\obj\Debug\net5.0\Day3_4.csproj.CoreCompileInputs.cache
+G:\visual studio community\Training\day3\Day3_4\bin\Debug\net5.0\Day3_4.exe
+G:\visual studio community\Training\day3\Day3_4\bin\Debug\net5.0\Day3_4.deps.json
+G:\visual studio community\Training\day3\Day3_4\bin\Debug\net5.0\Day3_4.runtimeconfig.json
+G:\visual studio community\Training\day3\Day3_4\bin\Debug\net5.0\Day3_4.runtimeconfig.dev.json
+G:\visual studio community\Training\day3\Day3_4\bin\Debug\net5.0\Day3_4.dll
+G:\visual studio community\Training\day3\Day3_4\bin\Debug\net5.0\ref\Day3_4.dll
+G:\visual studio community\Training\day3\Day3_4\bin\Debug\net5.0\Day3_4.pdb
+G:\visual studio community\Training\day3\Day3_4\obj\Debug\net5.0\Day3_4.dll
+G:\visual studio community\Training\day3\Day3_4\obj\Debug\net5.0\ref\Day3_4.dll
+G:\visual studio community\Training\day3\Day3_4\obj\Debug\net5.0\Day3_4.pdb
+G:\visual studio community\Training\day3\Day3_4\obj\Debug\net5.0\Day3_4.genruntimeconfig.cache
