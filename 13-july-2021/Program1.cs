@@ -47,7 +47,7 @@ namespace Day7_1
 
         public void Promote(bool result)
         {
-            if (true)
+            if (result == true)
             {
                 Console.WriteLine($"Increased  salary: {IncreasePay()}");
 
