@@ -1,4 +1,16 @@
-﻿using Domain;
+// Exception handling
+
+// Create two programs in your solution.
+// One is a console application name it as presentation
+// Another is a class library name it as Domain
+// Ensure you use .NET 5.0 framework for both 
+// In the library project, build the functionality to   search for a text occurrence in a string builder  Text program,  If the text is found, return the information or throw an exception
+// example:  Text:  "This is my sample text occurance",   subtext:  "Sample text"  
+// In the main program ,  collect the message  or the exception  and display it to the user.  
+// The main program should send both the Big  text  and substring  to the domain / library.  
+
+
+using Domain;
 using System;
 using System.Text;
 
