@@ -1,4 +1,16 @@
-﻿using System;
+//  Interfaces 
+
+//Enhance the banking program you all did on 16-July which had salary accounts and demat accounts.
+//Create Interface by name IBenefits  and IDematBenefits.
+//IBenefits will have  methods like AvailFreeDemandDrraft() , AvailFreeLocker() methods
+//Salary account  should implement the IBenefit .  You your own creativity about implementing the method logics / definition 
+
+//The interface IDematBenefits will internally implement the IBenefits and will have additional methods like AvailFreeCreditScoreCheck()  and GetDailyStockUpdates()
+//The Demat account class should implement this interface.
+
+
+
+using System;
 
 namespace Day11_1
 {
