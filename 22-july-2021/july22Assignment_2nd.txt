@@ -1,0 +1,41 @@
+
+
+	Rather than reading articles before I watch videos on youtube for basic.
+	Then with the basic I wil start surf more about the topics.
+	visit the website for more and clear explanation.
+
+	All the questions are come under delegates. 
+
+	function method in c sharp:
+	youtube link: https://youtu.be/4trl43Ycksg
+	I mostly read the topics from tutorial point and tutorial teacher website.
+
+	Anonymous methods in C sharp can be defined using the delegate keyword and can
+	be assigned to a variable of delegate type.
+ 
+
+	func in c sharp:
+
+	Func is a generic delegate included in the System namespace.
+	It has zero or more input parameters and one out parameter.
+	The last parameter is considered as an out parameter.
+
+	action in c sharp:
+
+	Action is a delegate type defined in the System namespace. 
+	An Action type delegate is the same as Func delegate except that the Action delegate doesn't return a value. 
+	In other words, an Action delegate can be used with a method that has a void return type.
+
+	predicate in c sharp:
+
+	Predicate is the delegate like Func and Action delegates. 
+	It represents a method containing a set of criteria and checks whether the passed parameter meets those criteria.
+	A predicate delegate methods must take one input parameter and return a boolean - true or false.
+
+	delegates in c sharp:
+
+	A delegate is an object which refers to a method or you can say it is a reference type variable that can hold a reference to the methods. 
+	Delegates in C# are similar to the function pointer in C/C++. 
+	It provides a way which tells which method is to be called when an event is triggered.
+
+	website reffered: tutorialteacher, geeksforgeeks, tutorial point and pragim technologies.
