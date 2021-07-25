@@ -1,4 +1,4 @@
-﻿//1.Delegates
+//1.Delegates
 
 //Create multiple  string manipulation methods like
 //a ) Removes white spaces with underscore 
@@ -12,39 +12,47 @@ using System;
 
 namespace Day13
 {
-    public delegate void StringMethod();
-
     class Program
     {
+        public delegate void StringMethod(string str);
+        public delegate void JoinMethod(string str1, string str2);
+
         static void Main(string[] args)
-        {
-            StringMethod stringMethod1 = new StringMethod(WhiteSpace);
-            StringMethod stringMethod2 = new StringMethod(ReverseString);
-            StringMethod stringMethod3 = new StringMethod(JoinMultipleString);
-            StringMethod stringMethod4 = new StringMethod(OccurenceMethod);
-
-
-            //Program.WhiteSpace("kamal hassan");
-            //Program.ReverseString("appu");
-            //Program.JoinMultipleString();
-            Program.OccurenceMethod();
-        }
-        //to find out white space
-        public static void WhiteSpace()
         {
             Console.WriteLine("enter a string with white space");
             var str = Console.ReadLine();
+
+
+            //for two strings
+            //Console.WriteLine("Enter first string for join operation: ");
+            //var str1 = Console.ReadLine();
+            //Console.WriteLine("Enter first string for join operation: ");
+            //var str2 = Console.ReadLine();
+
+            StringMethod stringMethod1 = new StringMethod(WhiteSpace);
+            stringMethod1 += ReverseString;
+            stringMethod1 += OccurenceMethod;
+
+            //for joining string
+            //JoinMethod joinMethod = new JoinMethod(JoinMultipleString);
+            stringMethod1.Invoke(str);
+            //joinMethod.Invoke(str1,str2);
+                        
+        }
+        //to find out white space
+        public static void WhiteSpace(string str)
+        {
+            
             var string1 = str;
-            if (string1.Contains(" ")) ;
+            if (string1.Contains(" "));
             var newString = string1.Replace(" ", "_");
             Console.WriteLine(newString);
         }
 
         //string reverse
-        public static void ReverseString()
+        public static void ReverseString(string reverseString)
         {
-            Console.WriteLine("enter a string for reverse string: ");
-            var reverseString = Console.ReadLine();
+            
             var length = reverseString.Length;
             for (int i = 1; i <= length; i++)
             {
@@ -54,31 +62,19 @@ namespace Day13
         }
 
         //joining multiple string
-        public static void JoinMultipleString()
+        public static void JoinMultipleString(string string1, string string2)
         {
-            string[] multiString = new String[10];
-            Console.WriteLine("enter how much strings do you want to add: ");
-            var length = int.Parse(Console.ReadLine());
-            for (int i = 0; i < length; i++)
-            {
-                Console.WriteLine("enter a string: ");
-                multiString[i] = Console.ReadLine();
+            Console.WriteLine(string.Concat(string1, string2));
 
-            }
-            foreach (var item in multiString)
-            {
-                Console.Write(item + " ");
-            }
+            
         }
 
         //find the character and number of occurrence in a string /  text 
-        public static void OccurenceMethod()
+        public static void OccurenceMethod(string str)
         {
             var count = 0;
             var occurence = 0;
             var character = ' ';
-            Console.WriteLine("enter a string: ");
-            var str = Console.ReadLine();
             Console.WriteLine("enter a character to find and number of occurrence in the {0} string.", str);
             var text = char.Parse(Console.ReadLine());
             for (int i = 0; i < str.Length; i++)
@@ -99,3 +95,4 @@ namespace Day13
         }
     }
 }
+
