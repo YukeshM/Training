@@ -1,0 +1,70 @@
+body {
+    /* background-color: #4895ef; */
+}
+header {
+    margin: 20px 20px 0 20px;
+    height: 100px;
+    background-color: #b5179e;
+}
+h1 {
+    color: white;
+    text-align: center;
+    /* font-family: 'Baloo Chettan 2', cursive; */
+    font-family: "Zen Tokyo Zoo", cursive;
+    padding-top: 10px;
+}
+nav {
+    float: right;
+    padding: 0px 20px;
+    font-weight: 700;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+img {
+    margin: 20px 0 20px 20px;
+    border-radius: 20px;
+    width: 95%;
+    min-height: 400px;
+}
+article {
+    margin: 20px 0 0 20px;
+    background-color: #a2d2ff;
+    width: 63%;
+    min-height: 500px;
+    float: left;
+}
+section {
+    font-family: "Baloo Chettan 2", cursive;
+    justify-content: space-evenly;
+    text-align: justify;
+    padding: 15px;
+}
+aside {
+    font-family: "Baloo Chettan 2", cursive;
+    text-align: start;
+    padding: 20px;
+    justify-content: stretch;
+    text-align: justify;
+    margin: 20px 20px 0 0;
+    background-color: #277da1;
+    width: 30%;
+    min-height: 480px;
+    float: right;
+}
+h2 {
+    color: white;
+    text-decoration: solid;
+}
+li {
+    text-decoration: none;
+}
+footer {
+    margin: 560px 20px 0 20px;
+    background-color: #d9ed92;
+    height: 40px;
+    text-align: center;
+    padding-top: 10px;
+    font-weight: bold;
+}
