@@ -1,0 +1,39 @@
+<!-- 1. Javascript XMLHttpRequest  using  HTML, CSS and Javascript 
+Use the APIs -  
+https://reqres.in/api/users?page=2   (GET) 
+Display the data in a tabular format in HTML  
+ -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>XMLHttpRequest</title>
+    <!--bootstrap  -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+    <!-- css -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+    <table class="table">
+        <thead>
+            <tr>
+                <td>Id</td>
+                <td>email</td>
+                <td>first name</td>
+                <td>last name</td>
+                <td>avatar</td>
+            </tr>
+            
+        </thead>
+        <tbody id="tBody"></tbody>
+    </table>
+</div>
+    
+
+<script src="script.js"></script>
+
+</body>
+</html>

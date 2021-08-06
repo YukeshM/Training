@@ -1,0 +1,9 @@
+body {
+    height: 60rem;
+    background: linear-gradient(135deg, rgb(234, 250, 15), white);
+}
+.container {
+    display: flex;
+    justify-content: center;
+    text-align: left;
+}
