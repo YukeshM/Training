@@ -1,0 +1,10 @@
+body{
+    margin: 1rem;
+    height: 50rem;
+    background: linear-gradient(135deg,#f72585, #3a0ca3);
+    display: flex;
+    justify-content: center;
+    color: white;
+  }
+  .btn{
+    margin: 1rem 0;
