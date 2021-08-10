@@ -1,0 +1,16 @@
+D:\gislen\c sharp\aug9_1\bin\Debug\net5.0\aug9_1.exe
+D:\gislen\c sharp\aug9_1\bin\Debug\net5.0\aug9_1.deps.json
+D:\gislen\c sharp\aug9_1\bin\Debug\net5.0\aug9_1.runtimeconfig.json
+D:\gislen\c sharp\aug9_1\bin\Debug\net5.0\aug9_1.runtimeconfig.dev.json
+D:\gislen\c sharp\aug9_1\bin\Debug\net5.0\aug9_1.dll
+D:\gislen\c sharp\aug9_1\bin\Debug\net5.0\ref\aug9_1.dll
+D:\gislen\c sharp\aug9_1\bin\Debug\net5.0\aug9_1.pdb
+D:\gislen\c sharp\aug9_1\obj\Debug\net5.0\aug9_1.csproj.AssemblyReference.cache
+D:\gislen\c sharp\aug9_1\obj\Debug\net5.0\aug9_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\gislen\c sharp\aug9_1\obj\Debug\net5.0\aug9_1.AssemblyInfoInputs.cache
+D:\gislen\c sharp\aug9_1\obj\Debug\net5.0\aug9_1.AssemblyInfo.cs
+D:\gislen\c sharp\aug9_1\obj\Debug\net5.0\aug9_1.csproj.CoreCompileInputs.cache
+D:\gislen\c sharp\aug9_1\obj\Debug\net5.0\aug9_1.dll
+D:\gislen\c sharp\aug9_1\obj\Debug\net5.0\ref\aug9_1.dll
+D:\gislen\c sharp\aug9_1\obj\Debug\net5.0\aug9_1.pdb
+D:\gislen\c sharp\aug9_1\obj\Debug\net5.0\aug9_1.genruntimeconfig.cache
